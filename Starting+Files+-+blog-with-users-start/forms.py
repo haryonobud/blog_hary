@@ -1,4 +1,3 @@
-import email_validator
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, PasswordField, validators
 from wtforms.validators import DataRequired, URL
